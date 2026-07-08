@@ -7,6 +7,8 @@ anotherName = "deeptanshu"
 
 console.log(myName) //deepu
 console.log(anotherName) //deeptanshu
+//make changes in the copy and not in the original
+
 
 // heap memory
 let userOne = {
@@ -20,3 +22,4 @@ userTwo.email = "deepu@google.com"
 
 console.log(userOne.email) //deepu@google.com
 console.log(userTwo.email) //deepu@google.com
+//make changes in the original
